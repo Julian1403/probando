@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/probando/static/css/main.073c9b0a.css",
+    "main.js": "/probando/static/js/main.cedb6750.js",
+    "static/js/787.6498f717.chunk.js": "/probando/static/js/787.6498f717.chunk.js",
+    "static/media/logo.svg": "/probando/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/probando/index.html",
+    "main.073c9b0a.css.map": "/probando/static/css/main.073c9b0a.css.map",
+    "main.cedb6750.js.map": "/probando/static/js/main.cedb6750.js.map",
+    "787.6498f717.chunk.js.map": "/probando/static/js/787.6498f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cedb6750.js"
+  ]
+}
